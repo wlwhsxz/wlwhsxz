@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwlwhsxz%2Fwlwhsxz%2Fblob%2Fmain%2FREADME.md&count_bg=%23A8CCFA&title_bg=%23CBE8FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 - 👋 Hi, I’m @wlwhsxz
 - 👀 I’m interested in Web/App Developement
 - 🌱 I’m currently learning javascript/Node.js
