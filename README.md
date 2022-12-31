@@ -18,7 +18,11 @@
   
 <br>
   
-![](https://github.com/wlwhsxz/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/wlwhsxz/github-stats-transparent/blob/output/generated/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlwhsxz&layout=compact)](https://github.com/wlwhsxz/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlwhsxz&show_icons=true&theme=radical)
+  
+<br>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwlwhsxz%2Fwlwhsxz%2Fblob%2Fmain%2FREADME.md&count_bg=%23A8CCFA&title_bg=%23CBE8FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
