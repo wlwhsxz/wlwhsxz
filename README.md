@@ -11,9 +11,9 @@
   
 <h3 align="center"> 🎳 About Me 🎳 </h3>
 <p align="center">
-  <a href="https://www.notion.so/CV-481f3376a2ba42c689210f9ffbc8d65f"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Vimeo&logoColor=white&link=https://www.notion.so/CV-481f3376a2ba42c689210f9ffbc8d65f"/></a>&nbsp
-  <a href="https://www.instagram.com/96minu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/bowling_kyu/"/></a>&nbsp
-  <a href="https://t.me/kyu_0918"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white&link=https://t.me/kyu_0918"/></a>&nbsp
+  <a href="https://www.notion.so/CV-481f3376a2ba42c689210f9ffbc8d65f"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/CV-481f3376a2ba42c689210f9ffbc8d65f"/></a>&nbsp
+  <a href="https://www.instagram.com/96minu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/96minu/"/></a>&nbsp
+  <a href="mailto:wlwhsxz@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wlwhsxz@gmail.com"/></a>&nbsp
 </p>
   
 <br>
