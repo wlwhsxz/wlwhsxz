@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&&customColorList=0,2,2,2,2,3&height=300&section=header&text=MinuLee%20&fontSize=90&)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=F08080&height=300&section=header&text=MinuLee%20&fontSize=90&)
 
   
 
