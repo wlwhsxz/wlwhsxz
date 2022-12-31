@@ -18,8 +18,7 @@
   
 <br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlwhsxz&layout=compact)](https://github.com/wlwhsxz/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlwhsxz&show_icons=true&theme=gruvbox)  
+![](https://github.com/wlwhsxz/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/wlwhsxz/github-stats-transparent/blob/output/generated/languages.svg)
   
 </div>
