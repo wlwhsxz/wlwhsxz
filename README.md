@@ -9,8 +9,7 @@ wlwhsxz/wlwhsxz is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-
- <img src="https://img.shields.io/badge/Javascript-3178C6?style=flat&logo=Javascript&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=blue"/>
-   <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React Native-3178C6?style=flat&logo=React&logoColor=#61DAFB"/>
+<img src="https://img.shields.io/badge/Javascript-#F7DF1E?style=flat&logo=Javascript&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/TypeScript-#3178C6?style=flat&logo=TypeScript&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-Native-#61DAFB?style=flat&logo=React&logoColor=white"/>
